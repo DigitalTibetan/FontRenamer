@@ -2,7 +2,7 @@
 
 Some GUI applications allow the user to select a font for use in the UI but restrict those fonts to certain font families groups. I common example is Ereader apps (like `koreader`) that allow the use of fallback fonts, but only of type "Noto Sans", since for Western script, Sans Serif fonts are the accepted standard. Unfortunately, Tibetan is by it's very nature a Serif script, and therefore Google only provides a "Noto Serif Tibetan" font. Just renaming the font-file doesn't work, since the name of the font is stored in the font-file itself. This tool allows you to rename the font in a way that it will be accepted by the application.
 
-**TLDR: I just want `Tibetan Sans Tibetan.ttf`**: Download a pre-converted font-file [here](https://github.com/DigitalTibetan/FontRenamer/blob/main/Resources/Noto%20Sans%20Tibetan.ttf) (Press the 'Download' icon)
+**TLDR: I just want `Tibetan Sans Tibetan.ttf`**: Download a pre-converted font-file [here](https://github.com/DigitalTibetan/FontRenamer/blob/main/Resources/Noto%20Sans%20Tibetan.ttf) (Press the icon named 'Download raw file'.)
 
 
 ### General Usage
@@ -37,4 +37,4 @@ If you don't want to go through the hassle of renaming the font, you can also us
 
 ## Resources
 
-- A version of Noto Serif Tibetan renamed internally to [`Tibetan Sans Tibetan.ttf`](https://github.com/DigitalTibetan/FontRenamer/blob/main/Resources/Noto%20Sans%20Tibetan.ttf)
+- A version of Noto Serif Tibetan renamed internally to [`Tibetan Sans Tibetan.ttf`](https://github.com/DigitalTibetan/FontRenamer/blob/main/Resources/Noto%20Sans%20Tibetan.ttf) (Press the icon named 'Download raw file'.)
